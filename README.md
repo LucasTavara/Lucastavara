@@ -32,6 +32,8 @@
 - [Email profissional](lucas_tavares.dev@hotmail.com)
 
 
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/LucasTavara/LucasTavara/output/snake.svg" alt="Snake animation" />
+   ![snake gif](https://github.com/LucasTavara/LucasTavara/blob/output/github-contribution-grid-snake.gif)
 
+</div>
