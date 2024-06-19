@@ -4,7 +4,11 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-tavares-811427313/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucastavares.03/)
 
-![Lucas Github stats](https://github-readme-stats.vercel.app/api?username=LucasTavara&show_icons=true&theme=dark)
+<div align="center">
+   <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Lucastavara&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasTavara&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ## Skills
 
@@ -26,3 +30,8 @@
 ### Email para contato:
 
 - [Email profissional](lucas_tavares.dev@hotmail.com)
+
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+
