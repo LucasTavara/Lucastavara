@@ -32,6 +32,8 @@
 - [Email profissional](lucas_tavares.dev@hotmail.com)
 
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/LucasTavara/LucasTavara/blob/output/github-contribuition-grid-snake.svg)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=LucasTavara&repo=LucasTavara&theme=react)](https://github.com/LucasTavara/LucasTavara)
 
 
