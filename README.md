@@ -31,7 +31,7 @@
 
 - [Email profissional](lucas_tavares.dev@hotmail.com)
 
-<br/><br/>
+<br/>
 <div align="center">
 
    ![snake gif](https://github.com/LucasTavara/LucasTavara/blob/output/github-contribution-grid-snake.gif)
