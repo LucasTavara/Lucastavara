@@ -1,12 +1,16 @@
-
-   #     Olá! Me chamo Lucas Tavares 👋🏻
+<h1 align="center">
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+  Hello, my name is Lucas Tavares
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+</h1>
    
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-tavares-811427313/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucastavares.03/)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](lulucas25@hotmail.com)
 
-Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas e aluno do Projeto Start da Rede Cidadã. Durante minha carreira acadêmica, adquiri tanto habilidades técnicas quanto pessoais. Entre minhas hard skills, posso citar JavaScript, Tailwind CSS. Atualmente, estou me aprofundando na linguagem Java, algo que tenho apreciado bastante. Minhas soft skills incluem análise, execução, proatividade, comunicação e planejamento. Estou sempre em busca de novas oportunidades para aplicar e expandir meus conhecimentos.
-
+<div align="justify">
+Sou estudante de Análise e Desenvolvimento de Sistemas, com experiência prática em desenvolvimento web e backend. Possuo conhecimento em linguagens e ferramentas como JavaScript, TailwindCSS, Java, Spring Boot, Docker, Railway, MySQL e PostgreSQL. Busco constantemente aprimorar minhas habilidades por meio de desafios e projetos práticos. Estou focado em ingressar na área de tecnologia e contribuir para soluções inovadoras.
+</div>
 
 ### Front-end
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
