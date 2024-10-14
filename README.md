@@ -57,7 +57,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, com experiência práti
 <br/>
 
 <div align="center">
- 
+  <img src="https://github-readme-stats.vercel.app/api?username=LucasTavara&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasTavara&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
   <br/><br/>
   <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3abbfa18-0a1a-4632-8438-d129a729b1d8/dexq64h-a6b70a1b-2558-4698-a14a-d5fb8223be6d.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNhYmJmYTE4LTBhMWEtNDYzMi04NDM4LWQxMjlhNzI5YjFkOFwvZGV4cTY0aC1hNmI3MGExYi0yNTU4LTQ2OTgtYTE0YS1kNWZiODIyM2JlNmQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.zeY8v0DZApGhm3KPFEG-ehFuKggVjlH-xEzuSrEiMuA" width="100%" />
   </div>
